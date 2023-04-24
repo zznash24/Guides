@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Alice",
+    "website": "https://alice.com",
+    "github_username": "alice123",
+    "points": 100,
+    "gender": "female",
+    "cohort_start_date": "2021-01-01",
+    "graduated": true
+  },
+  {
+    "name": "Bob",
+    "website": "https://bob.com",
+    "github_username": "bob456",
+    "points": 80,
+    "gender": "male",
+    "cohort_start_date": "2021-02-15",
+    "graduated": true
+  },
+  {
+    "name": "Charlie",
+    "website": "https://charlie.com",
+    "github_username": "charlie789",
+    "points": 70,
+    "gender": "male",
+    "cohort_start_date": "2021-03-01",
+    "graduated": false
+  },
+  {
+    "name": "Danielle",
+    "website": "https://danielle.com",
+    "github_username": "danielle101",
+    "points": 90,
+    "gender": "female",
+    "cohort_start_date": "2021-04-15",
+    "graduated": true
+  },
+  {
+    "name": "Evan",
+    "website": "https://evan.com",
+    "github_username": "evan2022",
+    "points": 60,
+    "gender": "male",
+    "cohort_start_date": "2021-05-01",
+    "graduated": false
+  },
+  {
+    "name": "Fiona",
+    "website": "https://fiona.com",
+    "github_username": "fiona555",
+    "points": 85,
+    "gender": "female",
+    "cohort_start_date": "2021-06-15",
+    "graduated": true
+  },
+  {
+    "name": "George",
+    "website": "https://george.com",
+    "github_username": "george789",
+    "points": 75,
+    "gender": "male",
+    "cohort_start_date": "2021-07-01",
+    "graduated": false
+  },
+  {
+    "name": "Hannah",
+    "website": "https://hannah.com",
+    "github_username": "hannah2022",
+    "points": 95,
+    "gender": "female",
+    "cohort_start_date": "2021-08-15",
+    "graduated": true
+  },
+  {
+    "name": "Isaac",
+    "website": "https://isaac.com",
+    "github_username": "isaac1234",
+    "points": 55,
+    "gender": "male",
+    "cohort_start_date": "2021-09-01",
+    "graduated": false
+  },
+  {
+    "name": "Julia",
+    "website": "https://julia.com",
+    "github_username": "julia567",
+    "points": 90,
+    "gender": "female",
+    "cohort_start_date": "2021-10-15",
+    "graduated": true
+  },
+  {
+    "name": "Kevin",
+    "website": "https://kevin.com",
+    "github_username": "kevin2022",
+    "points": 65,
+    "gender": "male",
+    "cohort_start_date": "2021-11-01",
+    "graduated": true
+  },
+  {
+    "name": "John Doe",
+    "website": "https://johndoe.com",
+    "github_username": "johndoe",
+    "points": 500,
+    "gender": "male",
+    "cohort_start_date": "2022-01-10",
+    "graduated": true
+  },
+  {
+    "name": "Jane Smith",
+    "website": "https://janesmith.com",
+    "github_username": "janesmith",
+    "points": 750,
+    "gender": "female",
+    "cohort_start_date": "2022-01-10",
+    "graduated": false
+  },
+  {
+    "name": "Alex Kim",
+    "website": "https://alexkim.com",
+    "github_username": "alexkim",
+    "points": 250,
+    "gender": "male",
+    "cohort_start_date": "2022-05-02",
+    "graduated": false
+  },
+  {
+    "name": "Emily Chen",
+    "website": "https://emilychen.com",
+    "github_username": "emilychen",
+    "points": 1000,
+    "gender": "female",
+    "cohort_start_date": "2022-05-02",
+    "graduated": true
+  },
+  {
+    "name": "Mike Johnson",
+    "website": "https://mikejohnson.com",
+    "github_username": "mikejohnson",
+    "points": 300,
+    "gender": "male",
+    "cohort_start_date": "2022-09-05",
+    "graduated": false
+  },
+  {
+    "name": "Sarah Lee",
+    "website": "https://sarahlee.com",
+    "github_username": "sarahlee",
+    "points": 900,
+    "gender": "female",
+    "cohort_start_date": "2022-09-05",
+    "graduated": true
+  },
+  {
+    "name": "David Park",
+    "website": "https://davidpark.com",
+    "github_username": "davidpark",
+    "points": 600,
+    "gender": "male",
+    "cohort_start_date": "2023-01-09",
+    "graduated": false
+  },
+  {
+    "name": "Jessica Wong",
+    "website": "https://jessicawong.com",
+    "github_username": "jessicawong",
+    "points": 850,
+    "gender": "female",
+    "cohort_start_date": "2023-01-09",
+    "graduated": true
+  },
+  {
+    "name": "Chris Lee",
+    "website": "https://chrislee.com",
+    "github_username": "chrislee",
+    "points": 400,
+    "gender": "male",
+    "cohort_start_date": "2023-05-01",
+    "graduated": false
+  },
+  {
+    "name": "Michelle Kim",
+    "website": "https://michellekim.com",
+    "github_username": "michellekim",
+    "points": 950,
+    "gender": "female",
+    "cohort_start_date": "2023-05-01",
+    "graduated": true
+  }
+]
