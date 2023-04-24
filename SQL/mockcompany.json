@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Dane",
+    "position": "Customer Service",
+    "currently_employed": false,
+    "years_employed": 30,
+    "gender": "M",
+    "salary": 65000,
+    "id": 1
+  },
+  {
+    "name": "Angela",
+    "position": "IT",
+    "currently_employed": false,
+    "years_employed": 30,
+    "gender": "F",
+    "salary": 45000,
+    "id": 2
+  },
+  {
+    "name": "Veronica",
+    "position": "Manager",
+    "currently_employed": true,
+    "years_employed": 30,
+    "gender": "F",
+    "salary": 95000,
+    "id": 3
+  },
+  {
+    "name": "Felipe",
+    "position": "Customer Service",
+    "currently_employed": true,
+    "years_employed": 30,
+    "gender": "NB",
+    "salary": 65000,
+    "id": 4
+  },
+  {
+    "name": "James",
+    "position": "IT",
+    "currently_employed": true,
+    "years_employed": 30,
+    "gender": "N/A",
+    "salary": 85000,
+    "id": 5
+  },
+  {
+    "name": "Sarah",
+    "position": "HR",
+    "currently_employed": true,
+    "years_employed": 5,
+    "gender": "F",
+    "salary": 60000,
+    "id": 6
+  },
+  {
+    "name": "Mark",
+    "position": "Sales",
+    "currently_employed": true,
+    "years_employed": 10,
+    "gender": "M",
+    "salary": 70000,
+    "id": 7
+  },
+  {
+    "name": "Emily",
+    "position": "IT",
+    "currently_employed": true,
+    "years_employed": 2,
+    "gender": "F",
+    "salary": 55000,
+    "id": 8
+  },
+  {
+    "name": "Jorge",
+    "position": "Customer Service",
+    "currently_employed": true,
+    "years_employed": 8,
+    "gender": "M",
+    "salary": 48000,
+    "id": 9
+  },
+  {
+    "name": "Rachel",
+    "position": "Marketing",
+    "currently_employed": true,
+    "years_employed": 4,
+    "gender": "NB",
+    "salary": 75000,
+    "id": 10
+  },
+  {
+    "name": "David",
+    "position": "IT",
+    "currently_employed": true,
+    "years_employed": 6,
+    "gender": "M",
+    "salary": 80000,
+    "id": 11
+  },
+  {
+    "name": "Maggie",
+    "position": "Sales",
+    "currently_employed": true,
+    "years_employed": 1,
+    "gender": "N/A",
+    "salary": 50000,
+    "id": 12
+  },
+  {
+    "name": "Juan",
+    "position": "Manager",
+    "currently_employed": true,
+    "years_employed": 12,
+    "gender": "M",
+    "salary": 100000,
+    "id": 13
+  },
+  {
+    "name": "Lily Chen",
+    "position": "Marketing Manager",
+    "currently_employed": true,
+    "years_employed": 4,
+    "gender": "F",
+    "salary": 100000,
+    "id": 14
+  },
+  {
+    "name": "Matthew Davis",
+    "position": "IT Support Specialist",
+    "currently_employed": true,
+    "years_employed": 2,
+    "gender": "N/A",
+    "salary": 60000,
+    "id": 15
+  },
+  {
+    "name": "Olivia Patel",
+    "position": "Product Manager",
+    "currently_employed": true,
+    "years_employed": 5,
+    "gender": "F",
+    "salary": 120000,
+    "id": 16
+  },
+  {
+    "name": "William Smith",
+    "position": "Financial Analyst",
+    "currently_employed": false,
+    "years_employed": 4,
+    "gender": "TH",
+    "salary": 85000,
+    "id": 17
+  },
+  {
+    "name": "Ansley Smith",
+    "position": "Sales",
+    "currently_employed": true,
+    "years_employed": 1,
+    "gender": "F",
+    "salary": 50000,
+    "id": 18
+  },
+  {
+    "name": "Juan Mendez",
+    "position": "Manager",
+    "currently_employed": true,
+    "years_employed": 12,
+    "gender": "M",
+    "salary": 100000,
+    "id": 19
+  },
+  {
+    "name": "Lily Koll",
+    "position": "Marketing Manager",
+    "currently_employed": true,
+    "years_employed": 4,
+    "gender": "N/A",
+    "salary": 100000,
+    "id": 20
+  },
+  {
+    "name": "Andrew Davis",
+    "position": "IT Support Specialist",
+    "currently_employed": true,
+    "years_employed": 2,
+    "gender": "M",
+    "salary": 60000,
+    "id": 21
+  },
+  {
+    "name": "Olivia Burch",
+    "position": "Product Manager",
+    "currently_employed": true,
+    "years_employed": 5,
+    "gender": "TH",
+    "salary": 120000,
+    "id": 22
+  },
+  {
+    "name": "William Haverty",
+    "position": "Financial Analyst",
+    "currently_employed": false,
+    "years_employed": 4,
+    "gender": "M",
+    "salary": 85000,
+    "id": 23
+  },
+  {
+    "name": "Daniel Joppolig",
+    "position": "Financial Analyst",
+    "currently_employed": false,
+    "years_employed": 4,
+    "gender": "TH",
+    "salary": 85000,
+    "id": 24
+  },
+  {
+    "name": "Jake Ghommlin",
+    "position": "Sales",
+    "currently_employed": true,
+    "years_employed": 1,
+    "gender": "F",
+    "salary": 50000,
+    "id": 25
+  },
+  {
+    "name": "Charles Billik",
+    "position": "Manager",
+    "currently_employed": true,
+    "years_employed": 12,
+    "gender": "M",
+    "salary": 100000,
+    "id": 26
+  },
+  {
+    "name": "Alan Herb",
+    "position": "Marketing Manager",
+    "currently_employed": true,
+    "years_employed": 4,
+    "gender": "N/A",
+    "salary": 100000,
+    "id": 27
+  },
+  {
+    "name": "Doug Bryan",
+    "position": "IT Support Specialist",
+    "currently_employed": true,
+    "years_employed": 2,
+    "gender": "M",
+    "salary": 60000,
+    "id": 28
+  },
+  {
+    "name": "Theodore Abugov",
+    "position": "Product Manager",
+    "currently_employed": true,
+    "years_employed": 5,
+    "gender": "TH",
+    "salary": 120000,
+    "id": 29
+  },
+  {
+    "name": "Judith Lonem",
+    "position": "Financial Analyst",
+    "currently_employed": false,
+    "years_employed": 4,
+    "gender": "M",
+    "salary": 85000,
+    "id": 30
+  }
+]
