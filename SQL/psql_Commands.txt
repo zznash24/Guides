@@ -1,0 +1,19 @@
+Here are some essential psql commands that you can use in the command-line interface:
+
+1. `\q` - Exit psql
+2. `\l` - List all databases
+3. `\c <database>` - Connect to a database
+4. `\dt` - List all tables in the current database
+5. `\d <table>` - Describe the specified table
+6. `CREATE DATABASE <name>` - Create a new database
+7. `CREATE TABLE <name> (<column definitions>)` - Create a new table
+8. `INSERT INTO <table> (<column names>) VALUES (<values>)` - Insert a new row into a table
+9. `SELECT <column names> FROM <table> WHERE <conditions>` - Retrieve data from a table
+10. `UPDATE <table> SET <column name> = <new value> WHERE <conditions>` - Update data in a table
+11. `DELETE FROM <table> WHERE <conditions>` - Delete data from a table
+12. `\i <file>` - Execute SQL commands from a file
+13. `\e` - Edit the last SQL command in your default editor
+14. `\timing` - Display the time taken to execute each SQL command
+15. `\df` - List all functions in the current database
+
+These are just some of the most commonly used commands in psql. There are many more commands available, and you can find a full list by typing `\?` in the psql command prompt.
