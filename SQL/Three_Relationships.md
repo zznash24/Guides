@@ -15,6 +15,7 @@ This creates a new database named "myCompany".
 ```
 \c myCompany
 ```
+This connects you to the database you just created.
 
 **Creating Tables:**
 
