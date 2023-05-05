@@ -15,6 +15,7 @@ This creates a new database named "myCompany".
 ```
 \c myCompany
 ```
+
 This connects you to the database you just created.
 
 **Creating Tables:**
@@ -36,7 +37,7 @@ This creates a table named "employees" with four columns: "id", "name", "age", a
 
 In a relational database, tables can have relationships with each other. There are three types of relationships: one-to-one, one-to-many, and many-to-many.
 
-To create a relationship between two tables, we use foreign keys. A foreign key is a column in one table that refers to the primary key of another table. 
+To create a relationship between two tables, we use foreign keys. A foreign key is a column in one table that refers to the primary key of another table.
 
 **One-to-Many Relationship:**
 
@@ -87,11 +88,7 @@ SELECT * FROM employees WHERE department_id = 1;
 
 This retrieves all the data from the "employees" table where the "department_id" is equal to 1.
 
-
-
 **One-to-One Relationship:**
-
-Sure, I'd be happy to show you what a one-to-one relationship would look like using the same data.
 
 A one-to-one relationship is a relationship between two tables where each row in one table is related to at most one row in the other table. One-to-one relationships are less common than one-to-many relationships, but they are still useful in certain scenarios.
 
@@ -131,10 +128,9 @@ INSERT INTO employees (id, name, age, salary, department_id, manager_id) VALUES 
 
 In this example, we've added two employees to the database. John is an employee in the Sales department, and his manager is Jane. Jane is also an employee in the Sales department, and her manager is John. This represents a one-to-one relationship between each employee and their manager.
 
-
 **Many-to-Many Relationship:**
 
-A many-to-many relationship is a type of relationship between two tables where each row in the first table can be related to many rows in the second table, and each row in the second table can be related to many rows in the first table. In other words, there is no limit to the number of relationships that can exist between the two tables. 
+A many-to-many relationship is a type of relationship between two tables where each row in the first table can be related to many rows in the second table, and each row in the second table can be related to many rows in the first table. In other words, there is no limit to the number of relationships that can exist between the two tables.
 
 In the context of the employees and projects example, a many-to-many relationship might exist between employees and projects. Each employee can work on many projects, and each project can have many employees working on it. To represent this relationship in the database, we need a third table that connects the employees and projects tables. This is called a junction or intersection table, and it contains foreign keys to both the employees and projects tables.
 
@@ -179,6 +175,4 @@ INSERT INTO employee_projects (employee_id, project_id) VALUES (1, 2);
 INSERT INTO employee_projects (employee_id, project_id) VALUES (2, 1);
 ```
 
-In this example, we've added two employees and two projects to the database. We've then used the employee_projects table to establish the relationships between employees and projects. John is working on both the Website Redesign and Mobile App Development projects, while Jane is working only on the Website Redesign project. 
-
-I hope this example helps you understand how many-to-many relationships work in SQL!
+In this example, we've added two employees and two projects to the database. We've then used the employee_projects table to establish the relationships between employees and projects. John is working on both the Website Redesign and Mobile App Development projects, while Jane is working only on the Website Redesign project.
