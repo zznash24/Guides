@@ -13,4 +13,11 @@
 
 Click on the "Save" button to save the server connection.
 
-Congratulations, you have successfully installed PostgreSQL on your Windows machine!
+5. Configure the path: Now that you have successfully installed PostgreSQL, we need to configure the path. This will allow you to use the command line in VS Code. First, you need to have the bin path of your install. To get that path, use these steps:
+- Open a command prompt or terminal window.
+- Type "pg_config --bindir" (without the quotes) and press Enter.
+- The output will display the directory path for the PostgreSQL binaries. Copy this path.
+In the windows search bar, type: Edit the system environment variables. Once you click on that, system properties should pop up. Navigate to the tab labeled Advanced, and in the bottom right corner click on Environment Variables. Another window called Environment Variables should pop up. Under 'User variables for -your username-', there should be an element called Path. Click on Path, and select the Edit button. Now you want to paste the path for the PostgreSQL bin.
+
+There you have it! You have installed and configured PostgreSQL!
+

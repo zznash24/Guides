@@ -32,6 +32,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 --* One to One Relationship
 
 -- CREATE DATABASE mycompany;
@@ -67,6 +76,18 @@
 -- SELECT * FROM employees;
 
 -- SELECT * FROM employees WHERE manager_id = 2;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
