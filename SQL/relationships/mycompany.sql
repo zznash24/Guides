@@ -30,18 +30,10 @@
 
 -- SELECT * FROM employees WHERE department_id = 1;
 
-
-
-
-
-
-
-
-
-
-
+-- ********************************************************************************************************************
 
 --* One to One Relationship
+--* Video Tutorial: https://youtu.be/IHJu-xgxTsE
 
 -- CREATE DATABASE mycompany;
 
@@ -77,21 +69,10 @@
 
 -- SELECT * FROM employees WHERE manager_id = 2;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+-- ********************************************************************************************************************
 
 --* Many to Many Relationship
+--* Video Tutorial: https://youtu.be/95A-4gf-1Sk
 
 -- CREATE DATABASE mycompany;
 
