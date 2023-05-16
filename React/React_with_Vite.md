@@ -4,7 +4,7 @@ Create a new folder for your project. You can name it whatever you like. Open yo
 Step 2: Initialize a new npm project - 
 In the terminal, run the following command to initialize a new npm project and follow the prompts:
 ```
-npm init
+npm init -y
 ```
 This command will create a `package.json` file that will store the project's dependencies and configuration.
 
