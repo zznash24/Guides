@@ -86,7 +86,7 @@ function logMessage(): void
 ```
 
 Additional Resources:
-- [TypeScript - Basic Types](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+- [TypeScript - Basic Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 
 
 ## 3. Advanced Types:
