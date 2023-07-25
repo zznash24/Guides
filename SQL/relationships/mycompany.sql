@@ -5,19 +5,19 @@
 
 -- \c mycompany
 
--- CREATE TABLE departments (
---     id INT PRIMARY KEY,
---     name VARCHAR(50)
--- );
+CREATE TABLE departments (
+    id INT PRIMARY KEY,
+    name VARCHAR(50)
+);
 
--- CREATE TABLE employees (
---     id INT PRIMARY KEY,
---     name VARCHAR(50),
---     age INT,
---     salary DECIMAL(10,2),
---     department_id INT,
---     FOREIGN KEY (department_id) REFERENCES departments(id)
--- );
+CREATE TABLE employees (
+    id INT PRIMARY KEY,
+    name VARCHAR(50),
+    age INT,
+    salary DECIMAL(10,2),
+    department_id INT,
+    FOREIGN KEY (department_id) REFERENCES departments(id)
+);
 
 -- INSERT INTO departments (id, name) VALUES (1, 'SALES');
 -- INSERT INTO departments (id, name) VALUES (2, 'MARKETING');
